@@ -1,0 +1,468 @@
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiExtractor.exe
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiExtractor.pdb
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\obj\x86\Debug\MidiExtractor.exe
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\obj\x86\Debug\MidiExtractor.pdb
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\DancingQueen.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Digimon.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\DontStopBelieving.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Friends.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\PowerRangers.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\SClubReach.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Smallville.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\ZeldaDarkWorld.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Flinstones.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\BarbieGirl.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\BillieJean.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\FurElise.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\PiratesCaribbean.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\SweetHomeAlabama.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\20584_Donnie-Darko.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Addams_Family.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Aquarius.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Back_To_The_Future.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Batman.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Blade_Runner.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Breakfast_Club.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Buffy_The_Vampire_Slayer.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Cheers.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Chim_Chim_Cheree.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Fame.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Flintstones.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Ghostbusters.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Happy_Days.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Home_Improvement.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\James_Bond.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Jurassic_Park.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\LivingOnAPrayer.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\N64_Bomberman64.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\N64_DiddyKong.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\N64_DukeNukem.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\N64_Goldeneye007.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\N64_MarioKart64.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\N64_PokemonSnap.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\N64_ZeldaOcarinaOfTime.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\One_Week.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Phantom_Of_The_Opera.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Pink_Panther.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Pirates_Of_The_Caribbean.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Pokemon.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Raiders_Of_The_Lost_Ark.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\ReachSClub7.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Rugrats.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\SG_SonicTheHedgehog.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\SG_ToejamNEarl.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Simpsons.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\SNES_DonkeyKongCountry.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\SNES_SecretOfMana.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\SNES_Zelda3ALinkToThePast.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\SPS_FinalFantasy7.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\SPS_FinalFantasy8.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Star_Trek.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Summer_Love.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Supercal.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Superman.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Teletubbies.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\The_Bear_Necessities.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\The_Matrix.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Time_Warp.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Under_The_Sea.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Whole_New_World.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\With_A_Little_Help.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Worms.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\XFiles.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Youre_The_One_That_I_Want.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Youve_Got_A_Friend.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\You_Give_Love_A_Bad_Name.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\2_Become_1.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\American_Woman.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Angels.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Are_You_Gonna_Go_My_Way.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Baby_One_More_Time.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Baby_One_More_Time_Hell_Mix.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Blame_It_On_The_Weatherman.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Brick.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Britney_Spears_Medley.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Brown_Eyed_Girl.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Buddy_Holly.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Cant_Take_My_Eyes_Off_Of_Yo.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Cest_La_Vie.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Charmless_Man.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Cosmic_Girl.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Criminal.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Dont_Speak.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Fly_Away.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Genie_In_A_Bottle.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Grease.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Hopelessly_Devoted_to_You.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\How_Deep_Is_Your_Love.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Isnt_She_Lovely.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\I_Just_Called_To_Say_I_Love.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\I_Want_It_That_Way.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\I_Wish.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Just_A_Girl.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\katy_perry-i_kissed_a_girl.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\katy_perry-teenage_dream.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Kiss_Me.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Livin_La_Vida_Loca.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Lovefool.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Love_Will_Keep_Us_Together.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Lucky.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Millenium.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Mmmbop.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\More_Than_A_Woman.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\My_Favourite_Game.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\My_Girl.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\My_Way.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\New_York_New_York.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Rainy_Day.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Reach.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Rock_DJ.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Say_Youll_Be_There.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\She_Bangs.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Sir_Duke.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Song_2.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Stayin_Alive.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Stevens_Last_Night_In_Town.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Stronger.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Summer_Nights.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Tender.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Virtual_Insanity.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Wannabe.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Weve_Got_It_Goin_On.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Whats_New_Pussycat.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\You_are_the_Sunshine_of_My.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\You_Drive_Me_Crazy.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\All_Day_and_All_of_the_N.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Another_One_Bites_the_Dust.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Any_Way_You_Want_It.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\A_View_to_a_Kill.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\BabeImGonnaLeaveYou.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Back_In_Black.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Bad_Moon_Rising.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Barbara_Ann.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Bloody_Well_Right.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Bohemian_Rhapsody.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Born_On_A_Bayou.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Born_to_be_Wild.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Breakfast_in_America.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Brown_Sugar.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Bullet_In_The_Head.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\California_Girls.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Californication.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Cant_Stand_Losing_You.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\CommunicationBreakdown.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Creep.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\DazedAndConfused.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\De_Do_Do_Do_De_Da_Da_Da.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Don`t Rain On My Parade.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Dream_Police.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Dude_Looks_Like_A_Lady.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Everybody_Hurts.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Evil_Woman.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Fake_Plastic_Trees.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Fly_like_an_Eagle.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Free_Bird.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Georgie_Girl.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Girls_on_Film.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\God_Only_Knows.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Goodbye_Stranger.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\GoodTimesBadTimes.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Good_Vibrations.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Head_Over_Heels.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Heart_of_Rock_and_Roll.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Help_Me_Rhonda.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Highway_to_Hell.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\High_And_Dry.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Hip_to_be_Square.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Ill_Stand_By_You.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\ImmigrantSong.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\In_Your_Eyes.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Its_Alright.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\It_Keeps_You_Runnin.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\I_Dont_Wanna_Miss_A_Thing.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\I_Get_Around.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\I_Only_Want_To_Be_With_You.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\I_Want_a_New_Drug.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\I_Want_You_To_Want_Me.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Johnny_B_Goode.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Journey_Concert_Medley.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Karma_Police.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Killing_In_The_Name_Of.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Last_Resort.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Logical_Song.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Losing_My_Religion.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Magic_Carpet_Ride.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Man_On_The_Moon.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Message_in_a_Bottle.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Never_Tear_Us_Apart.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\No_More_Mr_Nice_Guy.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\No_Surprises.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Our_House.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Paradise_City.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Paranoid_Android.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Peggy_Sue.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Power_of_Love.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Radio_Ga_Ga.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Rio.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Roll_Over_Beethoven.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Roxanne.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Scar_Tissue.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Shangri_La.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Sledgehammer.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\SmellsLikeTeenSpirit.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Smoke_On_The_Water.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Space_Cowboy.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Sunny_Afternoon.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Surfer_Girl.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Surfin_Safari.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Surfin_USA.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Sweet_Child_O_Mine.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Sweet_Home_Alabama.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Sympathy_for_the_Devil.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Take_The_Power_Back.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\TheLemonSong.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\The_Final_Countdown.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Thunderstruck.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\TNT.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\TwistAndShout.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Walk_This_Way.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\We_Are_the_Champions.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Workin_for_a_Livin'.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\YourTimeIsGonnaCome.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\YouShookMe.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Console Development\MidiExtractor\MidiExtractor\bin\Debug\MidiText\You_Really_Got_Me.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\obj\x86\Debug\MidiExtractor.exe
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\obj\x86\Debug\MidiExtractor.pdb
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\20584_Donnie-Darko.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\2_Become_1.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Addams_Family.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\All_Day_and_All_of_the_N.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\American_Woman.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Angels.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Another_One_Bites_the_Dust.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Any_Way_You_Want_It.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Aquarius.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Are_You_Gonna_Go_My_Way.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\A_View_to_a_Kill.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\BabeImGonnaLeaveYou.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Baby_One_More_Time.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Baby_One_More_Time_Hell_Mix.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Back_In_Black.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Back_To_The_Future.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Bad_Moon_Rising.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Barbara_Ann.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\BarbieGirl.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Batman.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\BillieJean.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Blade_Runner.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Blame_It_On_The_Weatherman.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Bloody_Well_Right.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Bohemian_Rhapsody.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Born_On_A_Bayou.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Born_to_be_Wild.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Breakfast_Club.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Breakfast_in_America.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Brick.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Britney_Spears_Medley.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Brown_Eyed_Girl.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Brown_Sugar.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Buddy_Holly.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Buffy_The_Vampire_Slayer.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Bullet_In_The_Head.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\California_Girls.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Californication.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Cant_Stand_Losing_You.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Cant_Take_My_Eyes_Off_Of_Yo.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Cest_La_Vie.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Charmless_Man.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Cheers.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Chim_Chim_Cheree.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\CommunicationBreakdown.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Cosmic_Girl.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Creep.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Criminal.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\DancingQueen.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\DazedAndConfused.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\De_Do_Do_Do_De_Da_Da_Da.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Digimon.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\DontStopBelieving.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Dont_Speak.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Don`t Rain On My Parade.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Dream_Police.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Dude_Looks_Like_A_Lady.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Everybody_Hurts.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Evil_Woman.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Fake_Plastic_Trees.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Fame.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Flinstones.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Flintstones.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Fly_Away.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Fly_like_an_Eagle.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Free_Bird.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Friends.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\FurElise.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Genie_In_A_Bottle.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Georgie_Girl.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Ghostbusters.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Girls_on_Film.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\God_Only_Knows.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Goodbye_Stranger.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\GoodTimesBadTimes.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Good_Vibrations.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Grease.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Happy_Days.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Head_Over_Heels.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Heart_of_Rock_and_Roll.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Help_Me_Rhonda.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Highway_to_Hell.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\High_And_Dry.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Hip_to_be_Square.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Home_Improvement.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Hopelessly_Devoted_to_You.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\How_Deep_Is_Your_Love.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Ill_Stand_By_You.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\ImmigrantSong.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\In_Your_Eyes.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Isnt_She_Lovely.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Its_Alright.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\It_Keeps_You_Runnin.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\I_Dont_Wanna_Miss_A_Thing.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\I_Get_Around.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\I_Just_Called_To_Say_I_Love.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\I_Only_Want_To_Be_With_You.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\I_Want_a_New_Drug.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\I_Want_It_That_Way.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\I_Want_You_To_Want_Me.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\I_Wish.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\James_Bond.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Johnny_B_Goode.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Journey_Concert_Medley.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Jurassic_Park.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Just_A_Girl.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Karma_Police.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\katy_perry-i_kissed_a_girl.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\katy_perry-teenage_dream.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Killing_In_The_Name_Of.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Kiss_Me.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Last_Resort.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\LivingOnAPrayer.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Livin_La_Vida_Loca.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Logical_Song.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Losing_My_Religion.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Lovefool.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Love_Will_Keep_Us_Together.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Lucky.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Magic_Carpet_Ride.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Man_On_The_Moon.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Message_in_a_Bottle.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Millenium.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Mmmbop.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\More_Than_A_Woman.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\My_Favourite_Game.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\My_Girl.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\My_Way.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\N64_Bomberman64.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\N64_DiddyKong.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\N64_DukeNukem.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\N64_Goldeneye007.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\N64_MarioKart64.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\N64_PokemonSnap.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\N64_ZeldaOcarinaOfTime.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Never_Tear_Us_Apart.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\New_York_New_York.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\No_More_Mr_Nice_Guy.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\No_Surprises.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\One_Week.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Our_House.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Paradise_City.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Paranoid_Android.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Peggy_Sue.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Phantom_Of_The_Opera.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Pink_Panther.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\PiratesCaribbean.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Pirates_Of_The_Caribbean.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Pokemon.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\PowerRangers.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Power_of_Love.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Radio_Ga_Ga.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Raiders_Of_The_Lost_Ark.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Rainy_Day.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Reach.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\ReachSClub7.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Rio.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Rock_DJ.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Roll_Over_Beethoven.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Roxanne.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Rugrats.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Say_Youll_Be_There.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Scar_Tissue.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\SClubReach.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\SG_SonicTheHedgehog.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\SG_ToejamNEarl.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Shangri_La.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\She_Bangs.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Simpsons.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Sir_Duke.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Sledgehammer.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Smallville.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\SmellsLikeTeenSpirit.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Smoke_On_The_Water.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\SNES_DonkeyKongCountry.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\SNES_SecretOfMana.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\SNES_Zelda3ALinkToThePast.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Song_2.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Space_Cowboy.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\SPS_FinalFantasy7.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\SPS_FinalFantasy8.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Star_Trek.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Stayin_Alive.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Stevens_Last_Night_In_Town.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Stronger.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Summer_Love.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Summer_Nights.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Sunny_Afternoon.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Supercal.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Superman.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Surfer_Girl.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Surfin_Safari.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Surfin_USA.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\SweetHomeAlabama.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Sweet_Child_O_Mine.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Sweet_Home_Alabama.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Sympathy_for_the_Devil.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Take_The_Power_Back.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Teletubbies.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Tender.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\TheLemonSong.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\The_Bear_Necessities.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\The_Final_Countdown.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\The_Matrix.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Thunderstruck.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Time_Warp.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\TNT.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\TwistAndShout.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Under_The_Sea.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Virtual_Insanity.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Walk_This_Way.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Wannabe.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Weve_Got_It_Goin_On.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\We_Are_the_Champions.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Whats_New_Pussycat.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Whole_New_World.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\With_A_Little_Help.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Workin_for_a_Livin'.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Worms.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\XFiles.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Youre_The_One_That_I_Want.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\YourTimeIsGonnaCome.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\YouShookMe.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\Youve_Got_A_Friend.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\You_are_the_Sunshine_of_My.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\You_Drive_Me_Crazy.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\You_Give_Love_A_Bad_Name.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\You_Really_Got_Me.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiText\ZeldaDarkWorld.txt
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiExtractor.exe
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\bin\Debug\MidiExtractor.pdb
+C:\Users\Spydarlee\Documents\My Dropbox\Assignments\Console Dev Assignment 1 - Part 1 (Bianco_Karn)\Tools\Source\MidiExtractor\MidiExtractor\obj\x86\Debug\ResolveAssemblyReference.cache
