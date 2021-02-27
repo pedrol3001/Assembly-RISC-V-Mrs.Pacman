@@ -1,8 +1,7 @@
 # Assembly-RISC-V-Mrs.Pacman
+Game Mrs.Pacman codded in assembly RISC-V
 
-Dame Mrs.Pacman codded in assembly RISC-V
-
-Simulador:
+Simulator:
   
     Rars12_Custom2.jar - In repository to simulate the processor assembly.
 
